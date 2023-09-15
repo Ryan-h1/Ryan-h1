@@ -3,7 +3,6 @@
 Hello! I'm Ryan Hecht, a third-year Computer Science student at Western University.
 
 🛠️ My Tech Stack
-I'm comfortable with learning any language or technology, but here are some that I'm already familiar with:
 - **Languages** Java, C/C++, SQL, Python, Javascript/Typescript, HTML/CSS, GLSL, Lua
 - **Frameworks & Libraries** Angular, RXJS, Node.js, Express.js, Bootstrap, OpenGL and its libraries
 - **Tools** Git, Docker, Flyway, just about any IDE
