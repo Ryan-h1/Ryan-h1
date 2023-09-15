@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+
 Hello! I'm Ryan Hecht, a third-year Computer Science student at Western University.
+
+
+⚡ Fun Facts
+- I love culinary arts! I used to cook at restaurants during the summers, but now I cook as a hobby (and because I need to eat). I'm trying to find the best ragu recipe, so if you have one, send it my way!
+- I've always been fascinated by literature. If you've read something fascinating lately, I'd love to hear about it.
 
 🛠️ My Tech Stack
 - **Languages** Java, C/C++, SQL, Python, Javascript/Typescript, HTML/CSS, GLSL, Lua
@@ -24,7 +30,4 @@ Hello! I'm Ryan Hecht, a third-year Computer Science student at Western Universi
 💬 Let's Connect
 - 📫 Email: ryanhecht.dev@gmail.com
 
-⚡ Fun Facts
-- I love culinary arts! I used to cook at restaurants during the summers, but now I cook as a hobby (and because I need to eat). I'm trying to find the best ragu recipe, so if you have one, send it my way!
-- I've always been fascinated by literature. If you've read something fascinating lately, I'd love to hear about it.
 
