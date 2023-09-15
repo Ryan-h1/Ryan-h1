@@ -10,7 +10,7 @@ Hello! I'm Ryan Hecht, a third-year Computer Science student at Western Universi
 
 🔭 Current Projects
 - Working on a VS Code extension that estimates the time complexity of a function.
-- Migrating
+- Migrating some OpenGL projects to WebGL
 
 🌱 Currently Learning
 - Machine Learning and Neural Networks
