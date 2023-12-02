@@ -15,13 +15,13 @@ Hello! I'm Ryan Hecht, a third-year Computer Science student at Western Universi
 - **Technologies** Auth0, AWS, Stripe, Firebase, Google Cloud, Vercel, GitHub, GitLab, BitBucket, Jira, Nhost
 
 🔭 Current Projects
-- Working on a VS Code extension that estimates the time complexity of a function.
+- A computer vision based pneumonia detection model
 - Migrating some OpenGL projects to WebGL
 
 🌱 Currently Learning
 - Machine Learning and Neural Networks
-- Websocket Programming
 - WebGL
+- Algorithms, data structures, and system design (forever and always!)
 
 👯 Collaboration
 - I love meeting and connecting with people, so if you're working on an intriguing project or looking for contributors, please don't hesitate to contact me!
