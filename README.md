@@ -9,13 +9,6 @@ I'm Ryan, a third-year Computer Science student at Western University.
 - **Tools** Git, Docker, Flyway, just about any IDE
 - **Technologies** Auth0, AWS, Stripe, Firebase, Google Cloud, Vercel, GitHub, GitLab, BitBucket, Jira, Nhost
 
-🔭 Current Projects
-- A computer vision-based pneumonia detection model
-
-🌱 Currently Learning
-- Machine Learning and Neural Networks
-- WebGL
-
 👯 Collaboration
 - I love meeting and connecting with people, so if you're working on an intriguing project or looking for contributors, please don't hesitate to contact me!
 
