@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Ryan, a third-year Computer Science student at Western University.
+I'm Ryan, a Computer Science student at Western University.
 
 🛠️ My Tech Stack
 - **Languages** Java, C/C++, SQL, Python, Javascript/Typescript, HTML/CSS, GLSL, Lua
